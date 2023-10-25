@@ -1,1 +1,1 @@
-# Pravak
+# Pravak-flowers image classification
